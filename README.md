@@ -16,6 +16,8 @@ please remove it as it may cause unexpected issues.)
 
 	4•	Let Metro Bundler run in its own terminal. Open a new terminal inside your React Native project folder. Run the following: ‘npx react-native run-android’
 
+	![Alt text](./src/assets/images/SS.png )
+
 
 For Unit Testing:
 
