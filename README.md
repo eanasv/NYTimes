@@ -22,3 +22,7 @@ please remove it as it may cause unexpected issues.)
 For Unit Testing:
 
 	•	Npx jest
+	
+	<img width="344" alt="Screenshot 2022-08-02 at 2 25 03 PM" src="https://user-images.githubusercontent.com/49430575/182337909-aca05919-1b6e-4d68-aff1-2ccc259e1e67.png">
+
+	
