@@ -23,6 +23,7 @@ For Unit Testing:
 
 	•	Npx jest
 	
-	<img width="344" alt="Screenshot 2022-08-02 at 2 25 03 PM" src="https://user-images.githubusercontent.com/49430575/182337909-aca05919-1b6e-4d68-aff1-2ccc259e1e67.png">
+	
 
 	
+<img width="344" alt="Screenshot 2022-08-02 at 2 25 03 PM" src="https://user-images.githubusercontent.com/49430575/182338385-7a58bcb2-38e8-47bb-a2be-5a82d4c0a65d.png">
